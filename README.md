@@ -1,7 +1,8 @@
 # chess-with-voice
 
 Google Drive link for vertual env <br> 
-
+https://drive.google.com/file/d/1nyZ2gkFwxF_QXZmSNChuiD9GQvisNd6Q/view?usp=sharing
+<br>
 
 How to play <br> 
 1.Direct CMD prompt where the 'venv_chessplay' folder is located <br> 
@@ -11,6 +12,7 @@ How to play <br>
 	$cd game_files<br> 
 4.Run the script: <br> 
 	$python 17072021.py<br> 
+<br>
 
 
 ![ezgif com-crop](https://github.com/kasunvj/chess-with-voice/assets/20115338/b4493da0-9ad8-4525-9b6a-b548a7096cf8)
