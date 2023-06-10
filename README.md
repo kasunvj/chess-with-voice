@@ -1,14 +1,16 @@
 # chess-with-voice
 
+Google Drive link for vertual env <br> 
 
-How to play 
-1.Direct CMD prompt where the 'venv_chessplay' folder is located \n
-2.Activate Vertual env: 
-	$venv_chessplay\Scripts\activate.bat
-3.Go in to 'game_files'
-	$cd game_files
-4.Run the script: 
-	$python 17072021.py
+
+How to play <br> 
+1.Direct CMD prompt where the 'venv_chessplay' folder is located <br> 
+2.Activate Vertual env: <br> 
+	$venv_chessplay\Scripts\activate.bat<br> 
+3.Go in to 'game_files'<br> 
+	$cd game_files<br> 
+4.Run the script: <br> 
+	$python 17072021.py<br> 
 
 
 ![ezgif com-crop](https://github.com/kasunvj/chess-with-voice/assets/20115338/b4493da0-9ad8-4525-9b6a-b548a7096cf8)
