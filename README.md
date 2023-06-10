@@ -1,7 +1,8 @@
 # chess-with-voice
 
+
 How to play 
-1.Direct CMD prompt where the 'venv_chessplay' folder is located
+1.Direct CMD prompt where the 'venv_chessplay' folder is located \n
 2.Activate Vertual env: 
 	$venv_chessplay\Scripts\activate.bat
 3.Go in to 'game_files'
